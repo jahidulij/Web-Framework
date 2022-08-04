@@ -21,10 +21,10 @@ class LoginTests(unittest.TestCase):
     def test_validLogin(self):
         self.lp.login("jahid@email.com", "pqa123")
         login_result1 = self.lp.verifyLoginTitle()
-        self.ts.mark(login_result1, "Title is incorrect")
+        self.ts.mark(login_result1, "Title is correct")
 
         login_result2 = self.lp.verfyLoginSuccessful()
-        self.ts.markFinal("test_validLogin", login_result2, "Login was unsuccessful")
+        self.ts.markFinal("test_validLogin", login_result2, "Login was successful")
 
 
 

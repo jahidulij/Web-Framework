@@ -1,3 +1,12 @@
 URL: https://courses.letskodeit.com/practice
 email: jahid@email.com
 pass : pqa123
+
+
+To Run From Commandline::
+
+Go To Project Location: ../testFramework
+Run Single File: pytest .\tests\home\file_name
+            i.e: pytest .\tests\home\test_login_pom_basepage.py
+To Run Parallel:  pytest .\tests\ -n number_of_thread
+                  pytest .\tests\ -n 4

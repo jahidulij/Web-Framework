@@ -1314,3 +1314,303 @@
 08/04/2022 08:56:43 AM - Util - INFO: ### VERIFICATION CONTAINS
 08/04/2022 08:56:43 AM - <module> - INFO: Running method level teardown
 08/04/2022 08:56:43 AM - <module> - INFO: Running one time teardown
+08/04/2022 10:55:16 AM - <module> - INFO: Running one time setup
+08/04/2022 10:55:20 AM - <module> - INFO: Running tests on Chrome
+08/04/2022 10:55:21 AM - <module> - INFO: Running method level setup
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: Locator type email not correct/supported
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: Locator type password not correct/supported
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: Sent pqa1234 on element with locator: password locatorType: id
+08/04/2022 10:55:21 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[1]/span and  locatorType: xpath
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: Element Found
+08/04/2022 10:55:22 AM - <module> - INFO: Running method level teardown
+08/04/2022 10:55:22 AM - <module> - INFO: Running method level setup
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: Locator type email not correct/supported
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: Locator type password not correct/supported
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: Sent pqa123 on element with locator: password locatorType: id
+08/04/2022 10:55:22 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 10:55:23 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 10:55:23 AM - Util - INFO: Actual text from Application Web UI --> :: My Courses
+08/04/2022 10:55:23 AM - Util - INFO: Expected text from Application Web UI --> :: My Courses
+08/04/2022 10:55:23 AM - Util - INFO: ### VERIFICATION CONTAINS
+08/04/2022 10:55:23 AM - StatusTest - INFO: ### VERIFICATION SUCCESSFUL :: Title is incorrect
+08/04/2022 10:55:23 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+08/04/2022 10:55:23 AM - LoginPageVerifyBasePage - INFO: Element Found
+08/04/2022 10:55:23 AM - StatusTest - INFO: ### VERIFICATION SUCCESSFUL :: Login was unsuccessful
+08/04/2022 10:55:23 AM - StatusTest - INFO: test_validLogin ### TEST SUCCESSFUL
+08/04/2022 10:55:23 AM - <module> - INFO: Running method level teardown
+08/04/2022 10:55:23 AM - <module> - INFO: Running one time teardown
+08/04/2022 10:57:40 AM - <module> - INFO: Running one time setup
+08/04/2022 10:57:45 AM - <module> - INFO: Running tests on Chrome
+08/04/2022 10:57:45 AM - <module> - INFO: Running method level setup
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: Locator type email not correct/supported
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: Locator type password not correct/supported
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: Sent pqa1234 on element with locator: password locatorType: id
+08/04/2022 10:57:45 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[1]/span and  locatorType: xpath
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: Element Found
+08/04/2022 10:57:47 AM - <module> - INFO: Running method level teardown
+08/04/2022 10:57:47 AM - <module> - INFO: Running method level setup
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: Locator type email not correct/supported
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: Locator type password not correct/supported
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: Sent pqa123 on element with locator: password locatorType: id
+08/04/2022 10:57:47 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 10:57:49 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 10:57:49 AM - Util - INFO: Actual text from Application Web UI --> :: My Courses
+08/04/2022 10:57:49 AM - Util - INFO: Expected text from Application Web UI --> :: My Courses
+08/04/2022 10:57:49 AM - Util - INFO: ### VERIFICATION CONTAINS
+08/04/2022 10:57:49 AM - StatusTest - INFO: ### VERIFICATION SUCCESSFUL :: Title is correct
+08/04/2022 10:57:49 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+08/04/2022 10:57:49 AM - LoginPageVerifyBasePage - INFO: Element Found
+08/04/2022 10:57:49 AM - StatusTest - INFO: ### VERIFICATION SUCCESSFUL :: Login was successful
+08/04/2022 10:57:49 AM - StatusTest - INFO: test_validLogin ### TEST SUCCESSFUL
+08/04/2022 10:57:49 AM - <module> - INFO: Running method level teardown
+08/04/2022 10:57:49 AM - <module> - INFO: Running one time teardown
+08/04/2022 10:58:10 AM - <module> - INFO: Running one time setup
+08/04/2022 10:58:17 AM - <module> - INFO: Running tests on Chrome
+08/04/2022 10:58:17 AM - <module> - INFO: Running method level setup
+08/04/2022 10:58:18 AM - LoginPage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 10:58:18 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 10:58:21 AM - LoginPage - INFO: Locator type email not correct/supported
+08/04/2022 10:58:21 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 10:58:21 AM - LoginPage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 10:58:21 AM - LoginPage - INFO: Locator type password not correct/supported
+08/04/2022 10:58:21 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 10:58:21 AM - LoginPage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 10:58:24 AM - LoginPage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 10:58:24 AM - LoginPage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 10:58:24 AM - LoginPage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 10:58:24 AM - LoginPage - INFO: Sent pqa1234 on element with locator: password locatorType: id
+08/04/2022 10:58:24 AM - LoginPage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 10:58:25 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 10:58:25 AM - LoginPage - INFO: [getElement] Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[1]/span and  locatorType: xpath
+08/04/2022 10:58:25 AM - LoginPage - INFO: Element Found
+08/04/2022 10:58:25 AM - <module> - INFO: Running method level teardown
+08/04/2022 10:58:25 AM - <module> - INFO: Running method level setup
+08/04/2022 10:58:25 AM - LoginPage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 10:58:25 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 10:58:28 AM - LoginPage - INFO: Locator type email not correct/supported
+08/04/2022 10:58:28 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 10:58:28 AM - LoginPage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 10:58:28 AM - LoginPage - INFO: Locator type password not correct/supported
+08/04/2022 10:58:28 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 10:58:28 AM - LoginPage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 10:58:31 AM - LoginPage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 10:58:31 AM - LoginPage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 10:58:31 AM - LoginPage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 10:58:31 AM - LoginPage - INFO: Sent pqa123 on element with locator: password locatorType: id
+08/04/2022 10:58:31 AM - LoginPage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 10:58:33 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 10:58:33 AM - LoginPage - INFO: [getElement] Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+08/04/2022 10:58:33 AM - LoginPage - INFO: Element Found
+08/04/2022 10:58:33 AM - <module> - INFO: Running method level teardown
+08/04/2022 10:58:33 AM - <module> - INFO: Running one time teardown
+08/04/2022 11:01:30 AM - <module> - INFO: Running one time setup
+08/04/2022 11:01:34 AM - <module> - INFO: Running tests on Chrome
+08/04/2022 11:01:34 AM - <module> - INFO: Running method level setup
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: Locator type email not correct/supported
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: Locator type password not correct/supported
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: Sent pqa1234 on element with locator: password locatorType: id
+08/04/2022 11:01:34 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[1]/span and  locatorType: xpath
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: Element Found
+08/04/2022 11:01:35 AM - <module> - INFO: Running method level teardown
+08/04/2022 11:01:35 AM - <module> - INFO: Running method level setup
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: Locator type email not correct/supported
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: Locator type password not correct/supported
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 11:01:35 AM - LoginPageVerifyBasePage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 11:01:36 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 11:01:36 AM - LoginPageVerifyBasePage - INFO: Sent pqa123 on element with locator: password locatorType: id
+08/04/2022 11:01:36 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 11:01:36 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 11:01:36 AM - Util - INFO: Actual text from Application Web UI --> :: My Courses
+08/04/2022 11:01:36 AM - Util - INFO: Expected text from Application Web UI --> :: My Courses
+08/04/2022 11:01:36 AM - Util - INFO: ### VERIFICATION CONTAINS
+08/04/2022 11:01:36 AM - StatusTest - INFO: ### VERIFICATION SUCCESSFUL :: Title is correct
+08/04/2022 11:01:36 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+08/04/2022 11:01:36 AM - LoginPageVerifyBasePage - INFO: Element Found
+08/04/2022 11:01:36 AM - StatusTest - INFO: ### VERIFICATION SUCCESSFUL :: Login was successful
+08/04/2022 11:01:36 AM - StatusTest - INFO: test_validLogin ### TEST SUCCESSFUL
+08/04/2022 11:01:36 AM - <module> - INFO: Running method level teardown
+08/04/2022 11:01:36 AM - <module> - INFO: Running one time teardown
+08/04/2022 11:01:38 AM - <module> - INFO: Running one time setup
+08/04/2022 11:01:42 AM - <module> - INFO: Running tests on Chrome
+08/04/2022 11:01:42 AM - <module> - INFO: Running method level setup
+08/04/2022 11:01:42 AM - LoginPage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 11:01:42 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 11:01:45 AM - LoginPage - INFO: Locator type email not correct/supported
+08/04/2022 11:01:45 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 11:01:45 AM - LoginPage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 11:01:45 AM - LoginPage - INFO: Locator type password not correct/supported
+08/04/2022 11:01:45 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 11:01:45 AM - LoginPage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 11:01:48 AM - LoginPage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 11:01:48 AM - LoginPage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 11:01:48 AM - LoginPage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 11:01:48 AM - LoginPage - INFO: Sent pqa1234 on element with locator: password locatorType: id
+08/04/2022 11:01:48 AM - LoginPage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 11:01:49 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 11:01:49 AM - LoginPage - INFO: [getElement] Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[1]/span and  locatorType: xpath
+08/04/2022 11:01:49 AM - LoginPage - INFO: Element Found
+08/04/2022 11:01:49 AM - <module> - INFO: Running method level teardown
+08/04/2022 11:01:49 AM - <module> - INFO: Running method level setup
+08/04/2022 11:01:49 AM - LoginPage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 11:01:50 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 11:01:53 AM - LoginPage - INFO: Locator type email not correct/supported
+08/04/2022 11:01:53 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 11:01:53 AM - LoginPage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 11:01:53 AM - LoginPage - INFO: Locator type password not correct/supported
+08/04/2022 11:01:53 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 11:01:53 AM - LoginPage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 11:01:56 AM - LoginPage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 11:01:56 AM - LoginPage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 11:01:56 AM - LoginPage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 11:01:56 AM - LoginPage - INFO: Sent pqa123 on element with locator: password locatorType: id
+08/04/2022 11:01:56 AM - LoginPage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 11:01:58 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 11:01:58 AM - LoginPage - INFO: [getElement] Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+08/04/2022 11:01:58 AM - LoginPage - INFO: Element Found
+08/04/2022 11:01:58 AM - <module> - INFO: Running method level teardown
+08/04/2022 11:01:58 AM - <module> - INFO: Running one time teardown
+08/04/2022 11:02:16 AM - <module> - INFO: Running one time setup
+08/04/2022 11:02:16 AM - <module> - INFO: Running one time setup
+08/04/2022 11:02:25 AM - <module> - INFO: Running tests on Chrome
+08/04/2022 11:02:25 AM - <module> - INFO: Running method level setup
+08/04/2022 11:02:25 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 11:02:25 AM - <module> - INFO: Running tests on Chrome
+08/04/2022 11:02:26 AM - <module> - INFO: Running method level setup
+08/04/2022 11:02:26 AM - LoginPage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: Locator type email not correct/supported
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: Locator type password not correct/supported
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: Sent pqa123 on element with locator: password locatorType: id
+08/04/2022 11:02:26 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 11:02:26 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 11:02:27 AM - <module> - INFO: Running tests on Chrome
+08/04/2022 11:02:27 AM - <module> - INFO: Running method level setup
+08/04/2022 11:02:27 AM - LoginPage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 11:02:27 AM - Util - INFO: Actual text from Application Web UI --> :: My Courses
+08/04/2022 11:02:27 AM - Util - INFO: Expected text from Application Web UI --> :: My Courses
+08/04/2022 11:02:27 AM - Util - INFO: ### VERIFICATION CONTAINS
+08/04/2022 11:02:27 AM - StatusTest - INFO: ### VERIFICATION SUCCESSFUL :: Title is correct
+08/04/2022 11:02:27 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+08/04/2022 11:02:27 AM - LoginPageVerifyBasePage - INFO: Element Found
+08/04/2022 11:02:27 AM - StatusTest - INFO: ### VERIFICATION SUCCESSFUL :: Login was successful
+08/04/2022 11:02:27 AM - StatusTest - INFO: test_validLogin ### TEST SUCCESSFUL
+08/04/2022 11:02:27 AM - <module> - INFO: Running method level teardown
+08/04/2022 11:02:27 AM - <module> - INFO: Running one time teardown
+08/04/2022 11:02:28 AM - <module> - INFO: Running tests on Chrome
+08/04/2022 11:02:28 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 11:02:28 AM - <module> - INFO: Running method level setup
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: Locator type email not correct/supported
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: Locator type password not correct/supported
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: Sent pqa1234 on element with locator: password locatorType: id
+08/04/2022 11:02:28 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 11:02:29 AM - LoginPageVerifyBasePage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 11:02:29 AM - LoginPageVerifyBasePage - INFO: [getElement] Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[1]/span and  locatorType: xpath
+08/04/2022 11:02:29 AM - LoginPageVerifyBasePage - INFO: Element Found
+08/04/2022 11:02:29 AM - <module> - INFO: Running method level teardown
+08/04/2022 11:02:29 AM - <module> - INFO: Running one time teardown
+08/04/2022 11:02:29 AM - LoginPage - INFO: Locator type email not correct/supported
+08/04/2022 11:02:29 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 11:02:29 AM - LoginPage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 11:02:29 AM - LoginPage - INFO: Locator type password not correct/supported
+08/04/2022 11:02:29 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 11:02:29 AM - LoginPage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 11:02:31 AM - LoginPage - INFO: Locator type email not correct/supported
+08/04/2022 11:02:31 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: email
+08/04/2022 11:02:31 AM - LoginPage - INFO: [clear] Element not found with locator: email and  locatorType: id
+08/04/2022 11:02:31 AM - LoginPage - INFO: Locator type password not correct/supported
+08/04/2022 11:02:31 AM - LoginPage - INFO: [getElement] Element not found with locator: id and  locatorType: password
+08/04/2022 11:02:31 AM - LoginPage - INFO: [clear] Element not found with locator: password and  locatorType: id
+08/04/2022 11:02:32 AM - LoginPage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 11:02:32 AM - LoginPage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 11:02:32 AM - LoginPage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 11:02:32 AM - LoginPage - INFO: Sent pqa1234 on element with locator: password locatorType: id
+08/04/2022 11:02:32 AM - LoginPage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 11:02:33 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 11:02:33 AM - LoginPage - INFO: [getElement] Element found with locator: //*[@id='page']/div[2]/div/div/div/div/form/div[1]/span and  locatorType: xpath
+08/04/2022 11:02:33 AM - LoginPage - INFO: Element Found
+08/04/2022 11:02:33 AM - <module> - INFO: Running method level teardown
+08/04/2022 11:02:33 AM - <module> - INFO: Running one time teardown
+08/04/2022 11:02:34 AM - LoginPage - INFO: [getElement] Element found with locator: email and  locatorType: id
+08/04/2022 11:02:34 AM - LoginPage - INFO: Sent jahid@email.com on element with locator: email locatorType: id
+08/04/2022 11:02:34 AM - LoginPage - INFO: [getElement] Element found with locator: password and  locatorType: id
+08/04/2022 11:02:34 AM - LoginPage - INFO: Sent pqa123 on element with locator: password locatorType: id
+08/04/2022 11:02:34 AM - LoginPage - INFO: [getElement] Element found with locator: //input[@value='Login'] and  locatorType: xpath
+08/04/2022 11:02:35 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+08/04/2022 11:02:35 AM - LoginPage - INFO: [getElement] Element found with locator: //*[@id='dropdownMenu1']/img and  locatorType: xpath
+08/04/2022 11:02:35 AM - LoginPage - INFO: Element Found
+08/04/2022 11:02:35 AM - <module> - INFO: Running method level teardown
+08/04/2022 11:02:35 AM - <module> - INFO: Running one time teardown
