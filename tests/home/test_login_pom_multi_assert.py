@@ -2,6 +2,7 @@ import pytest
 import unittest
 from pages.home.login_page_pom_multi_assert import LoginPage
 
+
 @pytest.mark.usefixtures("oneTimeSetUp", "setUp")
 class LoginTests(unittest.TestCase):
 
